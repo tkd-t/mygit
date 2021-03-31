@@ -1,0 +1,11 @@
+Click==7.0
+wheel
+Twisted
+cmake
+face-recognition==1.2.3
+face-recognition-models==0.3.0
+numpy==1.15.4
+opencv-python==3.4.4.19
+Pillow==5.3.0
+flask
+dlib==19.16.0
